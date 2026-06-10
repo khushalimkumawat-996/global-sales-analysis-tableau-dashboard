@@ -54,6 +54,4 @@ This dashboard enables stakeholders to:
 - Dashboard Design
 - Business Analysis
 - Storytelling with Data
-- Tableau                                                  
-  
-Gi  tHub: *(Add your GitHub profile link here)*
+Gi  tHub:profile link here)*
