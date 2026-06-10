@@ -1,57 +1,70 @@
-# Global Sales Analysis Dashboard | Tableau
+# Global Sales Analysis Dashboard
 
 ## Project Overview
 
-This project presents an interactive Tableau dashboard designed to analyze global sales performance across different regions, customer segments, and product categories. The dashboard helps uncover business trends, identify growth opportunities, and support data-driven decision-making through clear and interactive visualizations.
+This Tableau dashboard provides a comprehensive analysis of global sales performance across different regions, product categories, and customer segments.
+
+The project helps identify:
+
+* Sales trends over time
+* Top performing product categories
+* Regional sales performance
+* Customer purchasing patterns
+* Profitability insights
 
 ---
 
 ## Tools Used
 
-- Tableau
-- Data Visualization
-- Business Intelligence
-- Data Analysis
-
----
-
-## Dashboard Features
-
-- KPI Cards for Sales, Profit, and Orders
-- Sales Trend Analysis
-- Regional Performance Comparison
-- Product Category Analysis
-- Customer Segment Insights
-- Interactive Filters and Dynamic Visualizations
+* Tableau
+* Data Visualization
+* Business Intelligence
+* Data Analysis
 
 ---
 
 ## Key Insights
 
-- Sales remained relatively stable during the early years and started growing significantly after 2011.
-- Overall sales reached their highest level in 2021, reflecting strong business growth.
-- Technology products generated the highest revenue among all categories.
-- North America contributed the largest share of total sales.
-- Consumer customers accounted for the highest sales volume.
-- Some regions showed strong growth potential, highlighting future expansion opportunities.
+### Sales Growth
+
+* Sales remained relatively stable until 2010.
+* Significant growth started after 2011.
+* Sales peaked around $40B in 2021.
+
+### Product Performance
+
+* Technology products generated the highest revenue.
+* Office Supplies maintained consistent sales.
+* Furniture showed moderate growth.
+
+### Regional Analysis
+
+* North America contributed the largest share of sales.
+* Emerging regions showed strong growth potential.
+
+### Customer Trends
+
+* Consumer segment generated the highest revenue.
+* Corporate customers contributed steady sales growth.
+
+---
+
+## Dashboard Features
+
+* Interactive filters
+* Dynamic KPI cards
+* Regional comparison
+* Product category analysis
+* Time-series trend analysis
 
 ---
 
 ## Business Impact
 
-This dashboard enables stakeholders to:
+This dashboard helps business stakeholders:
 
-- Monitor business performance effectively.
-- Identify high-performing products and regions.
-- Understand customer purchasing behavior.
-- Support strategic planning and decision-making.
+* Monitor sales performance
+* Identify growth opportunities
+* Track customer behavior
+* Support strategic decision-making
 
----
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
-- Business Analysis
-- Storytelling with Data
-Gi  tHub:profile link here)*
