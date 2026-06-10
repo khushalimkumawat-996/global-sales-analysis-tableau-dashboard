@@ -46,9 +46,7 @@ This dashboard enables stakeholders to:
 - Understand customer purchasing behavior.
 - Support strategic planning and decision-making.
 
-
 ---
-
 ## Skills Demonstrated
 
 - Data Cleaning
@@ -56,6 +54,6 @@ This dashboard enables stakeholders to:
 - Dashboard Design
 - Business Analysis
 - Storytelling with Data
-- Tableau
-
-GitHub: *(Add your GitHub profile link here)*
+- Tableau                                                  
+  
+Gi  tHub: *(Add your GitHub profile link here)*
