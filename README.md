@@ -58,7 +58,4 @@ This dashboard enables stakeholders to:
 - Storytelling with Data
 - Tableau
 
-
-LinkedIn: *(Add your LinkedIn profile link here)*
-
 GitHub: *(Add your GitHub profile link here)*
